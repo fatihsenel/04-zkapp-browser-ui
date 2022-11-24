@@ -7,9 +7,10 @@ body {
 }
 
 a {
-  color: inherit;
+  color: blue;
   text-decoration: none;
 }
+
 
 * {
   box-sizing: border-box;
